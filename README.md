@@ -188,9 +188,9 @@ POST /api/v1/alerts            -> create alert (driver or system)
 ---
 
 ## Deployment Plan
-**Phase 0:** Prototype with Firebase + Android apps (2–3 weeks).
-**Phase 1:** MVP rollout to 1–2 buses for real-world testing (4–6 weeks).
-**Phase 2:** Add admin web dashboard, analytics, and expand to more buses (6–12 weeks).
+- **Phase 0:** Prototype with Firebase + Android apps (2–3 weeks).
+- **Phase 1:** MVP rollout to 1–2 buses for real-world testing (4–6 weeks).
+- **Phase 2:** Add admin web dashboard, analytics, and expand to more buses (6–12 weeks).
 
 ---
 

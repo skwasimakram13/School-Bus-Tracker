@@ -252,11 +252,20 @@ MIT License — you may use and modify the code for your organization. Include a
 
 ---
 
-**Contact / Next steps**
-- If you want, I can generate:
-  - Android starter code (Java) for the Driver App (foreground service + location upload), or
-  - Firebase JSON rules + Cloud Function templates, or
-  - A Node.js Express backend skeleton with WebSocket support.
+## Author
+**Develope By** - [Sk Wasim Akram](https://github.com/skwasimakram13)
 
-Choose one and I'll create the starter project files for you.
+- 👨‍💻 All of my projects are available at [https://skwasimakram.com](https://skwasimakram.com)
+
+- 📝 I regularly write articles on [https://blog.skwasimakram.com](https://blog.skwasimakram.com)
+
+- 📫 How to reach me **hello@skwasimakram.com**
+
+- 🧑‍💻 Google Developer Profile [https://g.dev/skwasimakram](https://g.dev/skwasimakram)
+
+- 📲 LinkedIn [https://www.linkedin.com/in/sk-wasim-akram](https://www.linkedin.com/in/sk-wasim-akram)
+
+---
+
+💡 *Built with ❤️ and creativity by Wassu.*
 
